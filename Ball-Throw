@@ -9,7 +9,7 @@
 <span class="solid" style="background: red; font-size:20pt;position:absolute;bottom:300px;right: 300px;width: 80px;height:25px">Good</span>
 <span class="solid" style="background: red; font-size:20pt;position:absolute;bottom:150px;right: 390px;width: 80px;height:25px">Ok</span>
 <span class="solid" style="background: red; font-size:20pt;position:absolute;bottom:150px;right: 200px;width: 80px;height:25px">Ninja</span>
-<span class="solid" style="background: red; font-size:15pt;position:absolute;bottom:450px;right: 140px;width: 80px;height:25px">Chuck Norris</span>
+<span class="solid" style="background: red; font-size:15pt;position:absolute;bottom:450px;right: 120px;width: 80px;height:35px">Chuck Norris</span>
 </center>
 
 <script src="http://gravityscript.googlecode.com/svn/trunk/throw.js"></script> 
