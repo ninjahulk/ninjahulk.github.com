@@ -4,8 +4,8 @@
  
 <center>
 <span class="solid" style="background: blue; font-size:20pt;position:absolute;bottom:0px;right: 1200px;width: 200px;height:100px">Throw Ball</span>
-<span class="solid" style="background: blue; font-size:10pt;position:absolute;bottom:0px;right: 900px;width: 100px;height:100px"></span>
-<span class="solid" style="background: blue; font-size:10pt;position:absolute;bottom:130px;right:1200px;width:30px;height:70px"></span>
+<span class="solid" style="background: blue; font-size:10pt;position:absolute;bottom:0px;right: 1000px;width: 100px;height:100px"></span>
+<span class="solid" style="background: blue; font-size:10pt;position:absolute;bottom:110px;right:1200px;width:30px;height:80px"></span>
 <span class="solid" style="background: red; font-size:20pt;position:absolute;bottom:300px;right: 300px;width: 80px;height:25px">Good</span>
 <span class="solid" style="background: red; font-size:20pt;position:absolute;bottom:150px;right: 380px;width: 80px;height:25px">Ok</span>
 <span class="solid" style="background: red; font-size:20pt;position:absolute;bottom:150px;right: 200px;width: 80px;height:25px">Ninja</span>
@@ -14,7 +14,7 @@
 <script src="http://gravityscript.googlecode.com/svn/trunk/throw.js"></script> 
 
 <center>
-<img class="grav" src="http://1.bp.blogspot.com/-X3gbNLQUqFQ/UCFQBL7W8lI/AAAAAAAAAyU/rYaHmiahTvA/s1600/segway.png" style="position: absolute; top:74px;width:65;height:80;cursor: move; left:80px;transform: rotate(0deg);" border="0">
+<img class="grav" src="http://1.bp.blogspot.com/-X3gbNLQUqFQ/UCFQBL7W8lI/AAAAAAAAAyU/rYaHmiahTvA/s1600/segway.png" style="position: absolute; top:74px;width:60;height:90;cursor: move; left:80px;transform: rotate(0deg);" border="0">
 
 <img class="grav" src="http://bestclipartblog.com/clipart-pics/soccer-ball-clip-art-8.jpg" style="position: absolute; top:74px;width:50;height:50;cursor: move; left:40px;transform: rotate(0deg);" border="0">
 
@@ -24,9 +24,9 @@
 
 <img class="grav" src="http://bestclipartblog.com/clipart-pics/soccer-ball-clip-art-8.jpg" style="position: absolute; top:74px;width:50;height:50;cursor: move; left:30px;transform: rotate(0deg);" border="0">
 
-<img class="grav" src="http://www.geeky-gadgets.com/wp-content/uploads/2012/04/bikeman.png" style="position: absolute; top:74px;width:65px;height:80px;cursor: move; left:1200px;transform: rotate(0deg);" border="0">
+<img class="grav" src="http://www.geeky-gadgets.com/wp-content/uploads/2012/04/bikeman.png" style="position: absolute; top:74px;width:65px;height:80px;cursor: move; left:1100px;transform: rotate(0deg);" border="0">
 
-<img class="grav"src="http://1.bp.blogspot.com/-DnYBYkp40pA/UCFQlx1wkeI/AAAAAAAAAyc/QJyDkbda-rY/s1600/happy-wheels-perfect-shopper.png" style="position: absolute; top:40px;width:65px;height:80px;cursor:move; left:9000px;transform: rotate(0deg);" border="0">
+<img class="grav"src="http://1.bp.blogspot.com/-DnYBYkp40pA/UCFQlx1wkeI/AAAAAAAAAyc/QJyDkbda-rY/s1600/happy-wheels-perfect-shopper.png" style="position: absolute; top:40px;width:65px;height:80px;cursor:move; left:900px;transform: rotate(0deg);" border="0">
 
 <img class="grav"src="http://images2.wikia.nocookie.net/__cb20110911211133/werrmoarcarictorz/images/c/c2/Wheelchair_Guy.png" style="position: absolute; top:70px;width:65px;height:80px;cursor:move; left:1000px;transform: rotate(0deg);" border="0">
 
